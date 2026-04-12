@@ -1,25 +1,50 @@
-Hi, I'm Bruno Feliciano de Omena
+# Bruno Feliciano de Omena
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brunofomena.github.io/Portfolio-BrunoFOmena/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-feliciano-48441a289/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofelicianodeomena@gmail.com)
 
 ## About Me
 
-- **BSc Student in Biomedicine** — Federal University of Pernambuco (UFPE)
-- **PIBIC-CNPq Scholar** — Transcriptomic Analysis, Depression and Suicide at [NUPIT/UFPE](https://nupit.com.br)
-- **Former PIBIT-CNPq Scholar** — Lipid Nanoparticles at [iLIKA/UFPE](https://lika.ufpe.br)
-- **Award Winner** — Center for Informatics (CIn) at UFPE for the Argos project (SaaS solution with AI)
+- **Student in Systems Analysis and Development**
+- Focused on building efficient, scalable, and well-documented solutions
+- Interested in internships in technology
+- Strong emphasis on collaboration, transparency, and continuous learning
+- Based in Recife, Brazil
 
-## Research Interests
+## Education
 
-- **Transcriptomic Analysis** — Currently working with RNA-seq data analysis using R and Python, identifying differential expression patterns associated with MDD and suicidal behavior
-- **Bioinformatics Pipelines** — Developing automated workflows with Nextflow and Snakemake for genomic and transcriptomic data processing
-- **Neurobiological Processes** — Investigating neural modulation and proteomics data analysis in neurobiological contexts
-- **Open Science** — Committed to reproducible research and open science practices in bioinformatics
+- **Technologist in Systems Analysis and Development**  
+  Centro Universitário Internacional UNINTER  
+  Expected graduation: July 2028
 
-## Skills & Certifications
+## Technical Skills
 
-- **Tools**: Nextflow, Snakemake, Python, R, Shiny
-- **Certified**: Oracle Cloud Infrastructure (OCI) Foundations Associate
-- **Expertise**: RNA-seq analysis, NGS data processing, Quality control, Differential gene expression
+- **Languages & Development**
+  - Python (automation, scripting)
+  - C# (basic backend development)
+  - HTML, CSS, JavaScript (web interfaces)
+  - SQL (basic)
+
+- **Tools & Practices**
+  - Git (branches, merges, pull requests)
+  - Automated testing fundamentals
+  - Repository organization and technical documentation
+  - Agile mindset (Scrum)
+
+- **Systems & Data**
+  - Linux command line and shell scripting
+  - Handling structured data (CSV, JSON)
+  - Data processing to support reporting
+
+## Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  
+  Oracle — Valid until Oct 2027
+
+- **Scrum Foundation Professional Certification (SFPC)**  
+  CertiProf
+
+## Languages
+
+- Portuguese — Native  
+- English — Advanced
