@@ -19,15 +19,6 @@ Estudante de ADS focado em construir soluções eficientes, escaláveis e bem do
 
 ---
 
-## Minhas Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFOmena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFOmena&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## Formação
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
