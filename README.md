@@ -27,20 +27,6 @@ Conclusão prevista: Julho de 2028
 
 ---
 
-## Certificações
-
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — Oracle *(válida até Out/2027)*
-- **Scrum Foundation Professional Certification (SFPC)** — CertiProf
-
----
-
-## Idiomas
-
-- Português — Nativo
-- Inglês — Avançado
-
----
-
 ## Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-omena-48441a289/)
