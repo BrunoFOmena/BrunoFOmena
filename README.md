@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Bioinformata&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Bioinformatician&descAlignY=55&descAlign=50" width="100%"/>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Building+data+pipelines+for+genomics+%26+NGS;Turning+FASTQ+%2F+VCF+%2F+FHIR+into+usable+data;Java+%2F+Spring+Boot+%2F+Python+%2F+Angular;AI-assisted+development+with+Claude+%26+Cursor"
@@ -181,9 +181,9 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <img src="https://github-readme-stats.vercel.app/api?username=BrunoFOmena&show_icons=true&theme=default&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=333333" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFOmena&layout=compact&theme=default&hide_border=true&title_color=2E9EF7&text_color=333333" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFOmena&hide_border=true&theme=default&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFOmena&theme=minimal&hide_border=true&area=true&color=2E9EF7&line=2E9EF7&point=00D4FF" alt="GitHub Contribution Activity"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BrunoFOmena&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" alt="GitHub Trophies"/>
 
 </div>
 
