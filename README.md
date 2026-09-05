@@ -31,9 +31,9 @@
 
 </div>
 
-> **Software Engineer & Bioinformata** com background em **Ciências Biomédicas**, focado em transformar dados genômicos e clínicos em sistemas confiáveis e prontos para análise.
+> **Software Engineer & Bioinformatician** with a **Biomedical Sciences** background, focused on transforming genomic and clinical data into reliable, analysis-ready systems.
 
-Projeto e construo sistemas de backend, pipelines de dados e plataformas analíticas para **genômica e saúde** usando Python, Java, Spring Boot, FastAPI, SQL e Angular — com foco em arquitetura escalável, qualidade de dados e processamento eficiente de **FASTQ, VCF e FHIR**. Utilizo ferramentas de IA como **Claude** e **Cursor** para acelerar desenvolvimento, revisão de código e prototipagem.
+I design and build backend systems, data pipelines and analytical platforms for **genomics and healthcare** using Python, Java, Spring Boot, FastAPI, SQL and Angular — with a focus on scalable architecture, data quality and efficient processing of **FASTQ, VCF and FHIR** data. I use AI tools like **Claude** and **Cursor** to accelerate development, code review and prototyping.
 
 <table align="center">
 <tr>
@@ -216,7 +216,7 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <div align="center">
 
 **Bruno Feliciano de Omena**
-Software Engineer · Bioinformata · Genomics · Healthcare · AI-Assisted Dev
+Software Engineer · Bioinformatician · Genomics · Healthcare · AI-Assisted Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-omena-48441a289/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoFOmena)
