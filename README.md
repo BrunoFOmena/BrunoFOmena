@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bioinformatician%20%7C%20Data%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Bioinformata&descAlignY=55&descAlign=50" width="100%"/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Building+data+pipelines+for+genomics+%26+NGS;Turning+FASTQ+%2F+VCF+%2F+FHIR+into+usable+data;Java+%2F+Spring+Boot+%2F+Python+%2F+Angular;From+raw+sequencing+data+to+clinical+insight"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Building+data+pipelines+for+genomics+%26+NGS;Turning+FASTQ+%2F+VCF+%2F+FHIR+into+usable+data;Java+%2F+Spring+Boot+%2F+Python+%2F+Angular;AI-assisted+development+with+Claude+%26+Cursor"
   alt="Typing SVG"
 />
 
@@ -31,9 +31,9 @@
 
 </div>
 
-> Bioinformatician and Data Engineer with a **Biomedical Sciences** background, focused on transforming genomic and clinical data into reliable, analysis-ready systems.
+> **Software Engineer & Bioinformata** com background em **Ciências Biomédicas**, focado em transformar dados genômicos e clínicos em sistemas confiáveis e prontos para análise.
 
-I design and build backend systems, data pipelines and analytical platforms for **genomics and healthcare** using Python, Java, Spring Boot, FastAPI, SQL and Angular — with a focus on scalable architecture, data quality and efficient processing of **FASTQ, VCF and FHIR** data.
+Projeto e construo sistemas de backend, pipelines de dados e plataformas analíticas para **genômica e saúde** usando Python, Java, Spring Boot, FastAPI, SQL e Angular — com foco em arquitetura escalável, qualidade de dados e processamento eficiente de **FASTQ, VCF e FHIR**. Utilizo ferramentas de IA como **Claude** e **Cursor** para acelerar desenvolvimento, revisão de código e prototipagem.
 
 <table align="center">
 <tr>
@@ -53,6 +53,7 @@ I design and build backend systems, data pipelines and analytical platforms for 
 - Data pipelines & analytical platforms
 - PostgreSQL / DuckDB / SQL
 - Docker, CI/CD, observability
+- AI-assisted development (Claude, Cursor)
 
 </td>
 </tr>
@@ -157,6 +158,11 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
+**AI Tools**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+
 **Observability**
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
@@ -198,6 +204,8 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <img src="https://img.shields.io/badge/Healthcare-2E9EF7?style=for-the-badge">
 <img src="https://img.shields.io/badge/FHIR-2E9EF7?style=for-the-badge">
 <img src="https://img.shields.io/badge/Variant_Analysis-2E9EF7?style=for-the-badge">
+<br/>
+<img src="https://img.shields.io/badge/AI--Assisted_Development-2E9EF7?style=for-the-badge">
 
 </div>
 
@@ -208,7 +216,7 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <div align="center">
 
 **Bruno Feliciano de Omena**
-Bioinformatics · Data Engineering · Genomics · Healthcare
+Software Engineer · Bioinformata · Genomics · Healthcare · AI-Assisted Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-omena-48441a289/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoFOmena)
