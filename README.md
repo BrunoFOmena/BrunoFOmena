@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Bioinformatician&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Header Dynamic Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Bioinformatician&descAlignY=55&descAlign=50" width="100%"/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Building+data+pipelines+for+genomics+%26+NGS;Turning+FASTQ+%2F+VCF+%2F+FHIR+into+usable+data;Java+%2F+Spring+Boot+%2F+Python+%2F+Angular;AI-assisted+development+with+Claude+%26+Cursor"
-  alt="Typing SVG"
-/>
+<!-- Typing SVG Dynamic Roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+LLMs+%7C+Agentic+Systems+%7C+MCP;Building+production-ready+AI+%26+backend+systems;Bioinformatics+pipelines+%2B+Genomic+Data+Engineering;Python+%7C+Java+%7C+Spring+Boot+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
 
 <br/>
 
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/bruno-omena-48441a289/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -18,7 +18,6 @@
 <a href="mailto:brunofelicianodeomena@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=BrunoFOmena&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views"/>
 
 </div>
@@ -27,33 +26,34 @@
 
 <div align="center">
 
-## 🧬 About Me
+## 🤖 About Me
 
 </div>
 
-> **Software Engineer & Bioinformatician** with a **Biomedical Sciences** background, focused on transforming genomic and clinical data into reliable, analysis-ready systems.
+> **AI Engineer & Jr. Fullstack Developer** with a background in **Biomedical Sciences / Bioinformatics**, focused on building production-ready LLM applications, agentic workflows, and scalable backend/data systems.
 
-I design and build backend systems, data pipelines and analytical platforms for **genomics and healthcare** using Python, Java, Spring Boot, FastAPI, SQL and Angular — with a focus on scalable architecture, data quality and efficient processing of **FASTQ, VCF and FHIR** data. I use AI tools like **Claude** and **Cursor** to accelerate development, code review and prototyping.
+I build reliable software around AI capabilities: **prompt/context engineering, RAG, tool calling, Model Context Protocol (MCP) integrations, agentic orchestration**, and robust backend APIs in **Python, Java, and Ruby**. Combined with my bioinformatics research background, I design data pipelines for genomics, healthcare, and complex analytics platforms.
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**🔬 Domain**
-- Bioinformatics & genomic data engineering
-- Clinical data engineering & healthcare interoperability
-- FASTQ / VCF / FHIR processing
-- Variant analysis & QC metrics
+**🤖 AI & Agentic Systems**
+- Agentic Workflows & Multi-step Agents
+- Model Context Protocol (MCP) & Tool Calling
+- RAG, Vector DBs & Context Design
+- Evaluation, Observability & Guardrails
+- AI-Assisted Dev (Claude, Cursor)
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Engineering**
-- Backend development & API design
-- Data pipelines & analytical platforms
-- PostgreSQL / DuckDB / SQL
-- Docker, CI/CD, observability
-- AI-assisted development (Claude, Cursor)
+**⚙️ Backend & Data Engineering**
+- Scalable APIs & Microservices (FastAPI, Spring Boot)
+- Genomic Pipelines (RNA-seq, FASTQ, VCF, FHIR)
+- Relational & Vector Databases (PostgreSQL, DuckDB)
+- Docker, CI/CD, Observability (Prometheus, Grafana)
+- Cloud Infrastructure (AWS, OCI)
 
 </td>
 </tr>
@@ -63,14 +63,16 @@ I design and build backend systems, data pipelines and analytical platforms for 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
 </div>
 
-## 🎓 Education
+## 💼 Work Experience & Education
 
 <div align="center">
 
-| 🎓 Degree | 🏛️ Institution | 📌 Status |
+| 🏢 Role / Degree | 🏛️ Institution / Company | 📌 Period |
 |:---|:---|:---:|
-| **B.Sc. in Biomedical Sciences** | Federal University of Pernambuco (UFPE) | ✅ Completed |
-| **Associate Degree in Systems Analysis and Development** | Uninter | 🟡 In Progress |
+| **Jr Fullstack Developer** | NeoGenomica | 2026 – Present |
+| **Undergraduate Research Fellow (Bioinformatics)** | UFPE | 2023 – 2026 |
+| **B.Sc. in Biomedicine (Bioinformatics)** | UFPE | Completed |
+| **Análise e Desenvolvimento de Sistemas** | Uninter | In Progress |
 
 </div>
 
@@ -90,10 +92,10 @@ I design and build backend systems, data pipelines and analytical platforms for 
 
 Cell counting application for **CSF (cerebrospinal fluid)** analysis in clinical laboratories.
 
-Local-first — runs directly on the lab computer, no Docker or external auth required.
+Local-first architecture designed to run directly on lab workstations.
 
-`React` `TypeScript` `Vite`
-`FastAPI` `Python` `SQLite`
+`React` `TypeScript` `FastAPI`
+`Python` `SQLite`
 
 </td>
 <td width="33%" valign="top">
@@ -102,9 +104,9 @@ Local-first — runs directly on the lab computer, no Docker or external auth re
 
 [![GitHub](https://img.shields.io/badge/GitHub-Veyra-181717?style=for-the-badge&logo=github)](https://github.com/BrunoFOmena/Veyra-Project)
 
-Clinical data engineering platform — the data layer between **EHR systems and analytics**.
+Clinical data engineering platform acting as the layer between **EHR systems and analytics**.
 
-Ingests FHIR, normalizes it into a canonical clinical model, and powers Patient 360, lab indicators, journeys & DQ.
+Ingests FHIR data into canonical models, powering Patient 360 & lab metrics.
 
 `Python` `FastAPI` `Docker`
 `dbt` `DuckDB` `Prefect`
@@ -116,9 +118,9 @@ Ingests FHIR, normalizes it into a canonical clinical model, and powers Patient 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Genometrics-181717?style=for-the-badge&logo=github)](https://github.com/BrunoFOmena/Genometrics-Project)
 
-Local-first platform for **genomic QC and variant metrics**, focused on FASTQ/VCF processing.
+Local-first platform for **genomic QC and variant metrics** (FASTQ/VCF processing).
 
-Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstation.
+Spring Boot backend paired with Angular dashboards for high-throughput analysis.
 
 `Java 21` `Spring Boot 3`
 `Angular 19` `PostgreSQL`
@@ -131,42 +133,35 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-**Languages**
+**AI & Agentic Engineering**
+
+<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain/LlamaIndex-121212?style=for-the-badge&logo=chainlink&logoColor=white">
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+<img src="https://img.shields.io/badge/Vector_Databases-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+**Languages & Frameworks**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-**Backend & Frameworks**
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-**Data & Infrastructure**
+**Data, DevOps & Infrastructure**
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-
-**AI Tools**
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
-
-**Observability**
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
 </div>
 
@@ -174,52 +169,23 @@ Spring Boot backend + Angular dashboards, tuned to run on a 16 GB RAM workstatio
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
 </div>
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrunoFOmena&show_icons=true&theme=default&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=333333" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFOmena&layout=compact&theme=default&hide_border=true&title_color=2E9EF7&text_color=333333" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BrunoFOmena&show_icons=true&theme=transparent&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=888888" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFOmena&layout=compact&theme=transparent&hide_border=true&title_color=2E9EF7&text_color=888888" height="160"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFOmena&theme=minimal&hide_border=true&area=true&color=2E9EF7&line=2E9EF7&point=00D4FF" alt="GitHub Contribution Activity"/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BrunoFOmena&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
-</div>
-
-## 🎯 Areas of Interest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Bioinformatics-2E9EF7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Genomics-2E9EF7?style=for-the-badge">
-<img src="https://img.shields.io/badge/NGS-2E9EF7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clinical_Data-2E9EF7?style=for-the-badge">
-<br/>
-<img src="https://img.shields.io/badge/Data_Engineering-2E9EF7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Healthcare-2E9EF7?style=for-the-badge">
-<img src="https://img.shields.io/badge/FHIR-2E9EF7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Variant_Analysis-2E9EF7?style=for-the-badge">
-<br/>
-<img src="https://img.shields.io/badge/AI--Assisted_Development-2E9EF7?style=for-the-badge">
-
-</div>
+<!-- Modern Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFOmena&theme=react-dark&hide_border=true&area=true&color=2E9EF7&line=2E9EF7&point=00D4FF" alt="GitHub Activity Graph" width="95%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2E9EF7,100:0F2027&height=180&section=footer&text=Let's%20build%20something%20together&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-**Bruno Feliciano de Omena**
-Software Engineer · Bioinformatician · Genomics · Healthcare · AI-Assisted Dev
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-omena-48441a289/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoFOmena)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofelicianodeomena@gmail.com)
+<!-- Trophy Badge System -->
+<img src="https://github-profile-trophy.vercel.app/?username=BrunoFOmena&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" alt="GitHub Trophies"/>
 
 </div>
+
+<div align="center
