@@ -184,8 +184,12 @@ Spring Boot backend paired with Angular dashboards for high-throughput analysis.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrunoFOmena&show_icons=true&theme=transparent&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=888888" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFOmena&layout=compact&theme=transparent&hide_border=true&title_color=2E9EF7&text_color=888888" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoFOmena&theme=github_dark" height="160" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoFOmena&theme=github_dark" height="160" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=BrunoFOmena&theme=transparent&hide_border=true&border_radius=10&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" width="95%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -196,14 +200,6 @@ Spring Boot backend paired with Angular dashboards for high-throughput analysis.
 </picture>
 
 <br/><br/>
-
-<!-- Animated activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFOmena&theme=react-dark&hide_border=true&area=true&color=2E9EF7&line=2E9EF7&point=00D4FF" alt="GitHub Activity Graph" width="95%"/>
-
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=BrunoFOmena&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" alt="GitHub Trophies"/>
 
 </div>
 
