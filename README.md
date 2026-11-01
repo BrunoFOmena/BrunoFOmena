@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header Dynamic Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=220&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Bioinformatician&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Animated header: waving gradient with fade-in title -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=240&section=header&text=Bruno%20Feliciano%20de%20Omena&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Bioinformatician&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Header"/>
 
-<!-- Typing SVG Dynamic Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+LLMs+%7C+Agentic+Systems+%7C+MCP;Building+production-ready+AI+%26+backend+systems;Bioinformatics+pipelines+%2B+Genomic+Data+Engineering;Python+%7C+Java+%7C+Spring+Boot+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
+<!-- Typing animation: rotating roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=AI+Engineer+%7C+LLMs+%7C+Agentic+Systems+%7C+MCP;Building+production-ready+AI+%26+backend+systems;Bioinformatics+pipelines+%2B+Genomic+Data+Engineering;Python+%7C+Java+%7C+Spring+Boot+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
 
 <br/>
 
@@ -24,10 +24,9 @@
 
 <br/>
 
+<!-- Section title: typing animation -->
 <div align="center">
-
-## 🤖 About Me
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A4%96+About+Me" alt="About Me" />
 </div>
 
 > **AI Engineer & Jr. Fullstack Developer** with a background in **Biomedical Sciences / Bioinformatics**, focused on building production-ready LLM applications, agentic workflows, and scalable backend/data systems.
@@ -60,10 +59,13 @@ I build reliable software around AI capabilities: **prompt/context engineering, 
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:2E9EF7&height=60&section=footer&animation=twinkling" width="100%" alt="divider"/>
 </div>
 
-## 💼 Work Experience & Education
+<!-- Section title: typing animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%92%BC+Experience+%26+Education" alt="Experience & Education" />
+</div>
 
 <div align="center">
 
@@ -77,10 +79,13 @@ I build reliable software around AI capabilities: **prompt/context engineering, 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:2E9EF7&height=60&section=footer&animation=twinkling" width="100%" alt="divider"/>
 </div>
 
-## 🚀 Active Projects
+<!-- Section title: typing animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Active+Projects" alt="Active Projects" />
+</div>
 
 <table width="100%">
 <tr>
@@ -130,10 +135,13 @@ Spring Boot backend paired with Angular dashboards for high-throughput analysis.
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:2E9EF7&height=60&section=footer&animation=twinkling" width="100%" alt="divider"/>
 </div>
 
-## 🛠️ Tech Stack & Skills
+<!-- Section title: typing animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Skills" alt="Tech Stack & Skills" />
+</div>
 
 <div align="center">
 
@@ -166,10 +174,13 @@ Spring Boot backend paired with Angular dashboards for high-throughput analysis.
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=2&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:2E9EF7&height=60&section=footer&animation=twinkling" width="100%" alt="divider"/>
 </div>
 
-## 📊 GitHub Analytics
+<!-- Section title: typing animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
+</div>
 
 <div align="center">
 
@@ -178,14 +189,26 @@ Spring Boot backend paired with Angular dashboards for high-throughput analysis.
 
 <br/><br/>
 
-<!-- Modern Animated Activity Graph -->
+<!-- Contribution snake: animated SVG generated by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoFOmena/BrunoFOmena/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BrunoFOmena/BrunoFOmena/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="95%"/>
+</picture>
+
+<br/><br/>
+
+<!-- Animated activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFOmena&theme=react-dark&hide_border=true&area=true&color=2E9EF7&line=2E9EF7&point=00D4FF" alt="GitHub Activity Graph" width="95%"/>
 
 <br/>
 
-<!-- Trophy Badge System -->
+<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=BrunoFOmena&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" alt="GitHub Trophies"/>
 
 </div>
 
-<div align="center
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:00D4FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%" alt="Footer"/>
+</div>
