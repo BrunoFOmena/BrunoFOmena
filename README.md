@@ -5,18 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+LLMs+%7C+Agentic+Systems;Fullstack+Developer+%7C+Python+%26+Java;Bioinformatics+%7C+Genomic+Data+Engineering" alt="Roles" />
 
-<br/>
+&nbsp;
 
-<a href="https://www.linkedin.com/in/bruno-omena-48441a289/">
-  <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/BrunoFOmena">
-  <img src="https://img.shields.io/github/followers/BrunoFOmena?label=Follow&style=flat-square&color=22C55E&logo=github&logoColor=white" alt="GitHub Followers"/>
-</a>
-<a href="mailto:brunofelicianodeomena@gmail.com">
-  <img src="https://img.shields.io/badge/Email-22C55E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=BrunoFOmena&label=Profile%20Views&color=22C55E&style=flat-square" alt="Profile Views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22C55E?style=flat-square&labelColor=0B1410&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/bruno-omena-48441a289/) [![GitHub Followers](https://img.shields.io/github/followers/BrunoFOmena?label=Follow&style=flat-square&labelColor=0B1410&color=22C55E&logo=github&logoColor=22C55E)](https://github.com/BrunoFOmena) [![Email](https://img.shields.io/badge/Email-Contact-22C55E?style=flat-square&labelColor=0B1410&logo=gmail&logoColor=22C55E)](mailto:brunofelicianodeomena@gmail.com) [![Profile Views](https://hits.sh/github.com/BrunoFOmena/BrunoFOmena.svg?style=flat-square&label=Profile%20Views&color=22C55E&labelColor=0B1410)](https://github.com/BrunoFOmena)
 
 </div>
 
