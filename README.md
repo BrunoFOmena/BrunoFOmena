@@ -70,7 +70,7 @@ I focus on **prompt and context engineering, RAG, tool calling, Model Context Pr
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=BrunoFOmena&theme=transparent&hide_border=true&border_radius=10&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=C084FC" width="95%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoFOmena&theme=github_dark" width="95%" alt="Productive time"/>
 </div>
 
 <br/>
