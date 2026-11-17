@@ -1,157 +1,157 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" shape-rendering="crispEdges">
 <title>Quest: Genometrics</title>
-<rect x="2" y="2" width="756" height="226" fill="#1A0B2E" stroke="#A855F7" stroke-width="4"/>
-<rect x="14" y="14" width="732" height="202" fill="none" stroke="#7E22CE" stroke-width="2"/>
+<rect x="2" y="2" width="756" height="226" fill="#0B1410" stroke="#22C55E" stroke-width="4"/>
+<rect x="14" y="14" width="732" height="202" fill="none" stroke="#15803D" stroke-width="2"/>
 <g>
-<rect x="92" y="36" width="12" height="6" fill="#A855F7"/>
+<rect x="92" y="36" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.00s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="92" y="36" width="12" height="6" fill="#C084FC"/>
+<rect x="92" y="36" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.00s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="108" y="45" width="12" height="6" fill="#A855F7"/>
+<rect x="108" y="45" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.13s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="76" y="45" width="12" height="6" fill="#C084FC"/>
+<rect x="76" y="45" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.13s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="116" y="54" width="12" height="6" fill="#A855F7"/>
+<rect x="116" y="54" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.26s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="68" y="54" width="12" height="6" fill="#C084FC"/>
+<rect x="68" y="54" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.26s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="120" y="63" width="12" height="6" fill="#A855F7"/>
+<rect x="120" y="63" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.39s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="64" y="63" width="12" height="6" fill="#C084FC"/>
+<rect x="64" y="63" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.39s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="116" y="72" width="12" height="6" fill="#A855F7"/>
+<rect x="116" y="72" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.52s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="68" y="72" width="12" height="6" fill="#C084FC"/>
+<rect x="68" y="72" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.52s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="104" y="81" width="12" height="6" fill="#A855F7"/>
+<rect x="104" y="81" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.65s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="80" y="81" width="12" height="6" fill="#C084FC"/>
+<rect x="80" y="81" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.65s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="88" y="90" width="12" height="6" fill="#A855F7"/>
+<rect x="88" y="90" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.78s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="96" y="90" width="12" height="6" fill="#C084FC"/>
+<rect x="96" y="90" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.78s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="72" y="99" width="12" height="6" fill="#A855F7"/>
+<rect x="72" y="99" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-0.91s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="112" y="99" width="12" height="6" fill="#C084FC"/>
+<rect x="112" y="99" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-0.91s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="64" y="108" width="12" height="6" fill="#A855F7"/>
+<rect x="64" y="108" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.04s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="120" y="108" width="12" height="6" fill="#C084FC"/>
+<rect x="120" y="108" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.04s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="64" y="117" width="12" height="6" fill="#A855F7"/>
+<rect x="64" y="117" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.17s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="120" y="117" width="12" height="6" fill="#C084FC"/>
+<rect x="120" y="117" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.17s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="72" y="126" width="12" height="6" fill="#A855F7"/>
+<rect x="72" y="126" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.30s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="112" y="126" width="12" height="6" fill="#C084FC"/>
+<rect x="112" y="126" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.30s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="84" y="135" width="12" height="6" fill="#A855F7"/>
+<rect x="84" y="135" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.43s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="100" y="135" width="12" height="6" fill="#C084FC"/>
+<rect x="100" y="135" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.43s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="100" y="144" width="12" height="6" fill="#A855F7"/>
+<rect x="100" y="144" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.56s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="84" y="144" width="12" height="6" fill="#C084FC"/>
+<rect x="84" y="144" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.56s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="112" y="153" width="12" height="6" fill="#A855F7"/>
+<rect x="112" y="153" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.69s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="72" y="153" width="12" height="6" fill="#C084FC"/>
+<rect x="72" y="153" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.69s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="120" y="162" width="12" height="6" fill="#A855F7"/>
+<rect x="120" y="162" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.82s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="64" y="162" width="12" height="6" fill="#C084FC"/>
+<rect x="64" y="162" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.82s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="116" y="171" width="12" height="6" fill="#A855F7"/>
+<rect x="116" y="171" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-1.95s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="68" y="171" width="12" height="6" fill="#C084FC"/>
+<rect x="68" y="171" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-1.95s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="108" y="180" width="12" height="6" fill="#A855F7"/>
+<rect x="108" y="180" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-2.08s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="76" y="180" width="12" height="6" fill="#C084FC"/>
+<rect x="76" y="180" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-2.08s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="96" y="189" width="12" height="6" fill="#A855F7"/>
+<rect x="96" y="189" width="12" height="6" fill="#22C55E"/>
 <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="-2.21s" repeatCount="indefinite"/>
 </g>
 <g>
-<rect x="88" y="189" width="12" height="6" fill="#C084FC"/>
+<rect x="88" y="189" width="12" height="6" fill="#4ADE80"/>
 <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="-2.21s" repeatCount="indefinite"/>
 </g>
-<text x="190" y="52" font-family="Courier New, Consolas, monospace" font-size="13" font-weight="normal" fill="#F0ABFC" text-anchor="start">&gt; QUEST LOG</text>
-<text x="190" y="80" font-family="Courier New, Consolas, monospace" font-size="12" font-weight="normal" fill="#C084FC" text-anchor="start" letter-spacing="2">CURRENT QUEST</text>
-<text x="190" y="116" font-family="Courier New, Consolas, monospace" font-size="36" font-weight="bold" fill="#E9D5FF" text-anchor="start">GENOMETRICS</text>
-<text x="190" y="146" font-family="Courier New, Consolas, monospace" font-size="14" font-weight="normal" fill="#E9D5FF" text-anchor="start">Local-first quality control for FASTQ files and</text>
-<text x="190" y="166" font-family="Courier New, Consolas, monospace" font-size="14" font-weight="normal" fill="#E9D5FF" text-anchor="start">summaries for VCF files, packaged as an agent</text>
-<text x="190" y="186" font-family="Courier New, Consolas, monospace" font-size="14" font-weight="normal" fill="#E9D5FF" text-anchor="start">skill for Claude Code. Runs on your machine.</text>
-<text x="190" y="212" font-family="Courier New, Consolas, monospace" font-size="12" font-weight="normal" fill="#C084FC" text-anchor="start">Python | Claude Code skill | FASTQ / VCF QC</text>
-<text x="720" y="52" font-family="Courier New, Consolas, monospace" font-size="13" font-weight="normal" fill="#F0ABFC" text-anchor="end">&gt; IN PROGRESS<animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></text>
+<text x="190" y="52" font-family="Courier New, Consolas, monospace" font-size="13" font-weight="normal" fill="#86EFAC" text-anchor="start">&gt; QUEST LOG</text>
+<text x="190" y="80" font-family="Courier New, Consolas, monospace" font-size="12" font-weight="normal" fill="#4ADE80" text-anchor="start" letter-spacing="2">CURRENT QUEST</text>
+<text x="190" y="116" font-family="Courier New, Consolas, monospace" font-size="36" font-weight="bold" fill="#DCFCE7" text-anchor="start">GENOMETRICS</text>
+<text x="190" y="146" font-family="Courier New, Consolas, monospace" font-size="14" font-weight="normal" fill="#DCFCE7" text-anchor="start">Local-first quality control for FASTQ files and</text>
+<text x="190" y="166" font-family="Courier New, Consolas, monospace" font-size="14" font-weight="normal" fill="#DCFCE7" text-anchor="start">summaries for VCF files, packaged as an agent</text>
+<text x="190" y="186" font-family="Courier New, Consolas, monospace" font-size="14" font-weight="normal" fill="#DCFCE7" text-anchor="start">skill for Claude Code. Runs on your machine.</text>
+<text x="190" y="212" font-family="Courier New, Consolas, monospace" font-size="12" font-weight="normal" fill="#4ADE80" text-anchor="start">Python | Claude Code skill | FASTQ / VCF QC</text>
+<text x="720" y="52" font-family="Courier New, Consolas, monospace" font-size="13" font-weight="normal" fill="#86EFAC" text-anchor="end">&gt; IN PROGRESS<animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></text>
 </svg>
