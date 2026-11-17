@@ -65,12 +65,9 @@ I focus on **prompt and context engineering, RAG, tool calling, Model Context Pr
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=1500&color=C084FC&width=700&height=30&lines=%5B+PLAYER+STATS+%5D" alt="Player stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoFOmena&theme=github_dark" height="160" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoFOmena&theme=github_dark" height="160" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoFOmena&theme=github_dark" width="48%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoFOmena&theme=github_dark" width="48%" alt="Top Languages"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoFOmena&theme=github_dark" width="95%" alt="Productive time"/>
 </div>
 
 <br/>
