@@ -35,7 +35,7 @@ I focus on **prompt and context engineering, RAG, tool calling, Model Context Pr
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=1500&color=C084FC&width=700&height=30&lines=%5B+CURRENT+QUEST+%5D" alt="Current quest" />
 
 <a href="https://github.com/BrunoFOmena/Genometrics-Project">
-<img src="https://raw.githubusercontent.com/BrunoFOmena/BrunoFOmena/main/assets/quest.svg" width="100%" alt="Quest: Genometrics. Local-first platform for genomic QC and variant metrics (FASTQ/VCF processing), with Spring Boot and Angular dashboards." />
+<img src="https://raw.githubusercontent.com/BrunoFOmena/BrunoFOmena/main/assets/quest.svg" width="100%" alt="Quest: Genometrics. Local-first quality control for FASTQ files and summaries for VCF files, packaged as an agent skill for Claude Code." />
 </a>
 
 <br/><br/>
